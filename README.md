@@ -1,3 +1,13 @@
+WARNING!!! Use at your own risk. It seems Instagram is flagging accounts which use scripts to login. I am not responsible for any issues you may run into.
+
+You can put in info other than your own to still download posts from public (non private) users. set the config to something similar:
+
+username = a
+password = a
+
+this will cause the login to fail, and will throw an error, but the script will continue to run and download public posts (no stories though). 
+
+
 This will simply automatically check for new posts or stories from instagram users ever X minutes (set in the config file).
 
 I quickly threw this together, and I know it can be cleaned up a lot. If you want to improve on it, feel free. I may get around to cleaning it up myself later on.
